@@ -1,0 +1,21 @@
+# Web App and UI
+streamlit>=1.32.0
+
+# Data Handling
+pandas>=2.2.2
+numpy>=1.26.4
+
+# Machine Learning
+scikit-learn>=1.4.2
+nltk>=3.8.1
+
+# Model Logging & Tracking
+mlflow>=2.11.3
+
+# Web Scraping
+beautifulsoup4>=4.12.3
+requests>=2.31.0
+
+# Environment Variables
+python-dotenv>=1.0.1
+
